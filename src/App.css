@@ -76,6 +76,7 @@ box-shadow: 0 10px 10px #0005;
   background-image: linear-gradient(45deg, #5556a0, #ab84b4);
   border-radius: 20px;
   box-shadow: 0 3px 0 #fff;
+  overflow: auto;
 }
 
 .playing li{

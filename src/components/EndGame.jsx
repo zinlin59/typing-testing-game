@@ -32,7 +32,9 @@ const EndGame = ({score, onGame, timer}) => {
                 </div>
             </div>
             <button className="btnPlay" onClick={() =>
-            onGame('playGame')}>Play Game Again</button>
+            onGame('playGame')}>Play Again</button>
+            <button className="btnPlay" onClick={() =>
+            onGame('')}>Home</button>
         </div>
     )
 }
