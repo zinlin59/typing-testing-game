@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/typing-testing-game/static/css/main.41461363.css",
-    "main.js": "/typing-testing-game/static/js/main.dca0e56e.js",
+    "main.css": "/typing-testing-game/static/css/main.0b3aeb7f.css",
+    "main.js": "/typing-testing-game/static/js/main.28775b1d.js",
     "index.html": "/typing-testing-game/index.html",
-    "main.41461363.css.map": "/typing-testing-game/static/css/main.41461363.css.map",
-    "main.dca0e56e.js.map": "/typing-testing-game/static/js/main.dca0e56e.js.map"
+    "main.0b3aeb7f.css.map": "/typing-testing-game/static/css/main.0b3aeb7f.css.map",
+    "main.28775b1d.js.map": "/typing-testing-game/static/js/main.28775b1d.js.map"
   },
   "entrypoints": [
-    "static/css/main.41461363.css",
-    "static/js/main.dca0e56e.js"
+    "static/css/main.0b3aeb7f.css",
+    "static/js/main.28775b1d.js"
   ]
 }
